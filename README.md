@@ -2,7 +2,7 @@
 Geliştirilen yazılımda bilgisayar ile kullanıcı arasında oynanan bir oyun mevcuttur. Yazılım ve kullanıcı rakamları birbirinden farklı 4 basamaklı bir sayı tutacaklar(‘0’ ile başlayabilir). Yazılım, kullanıcının tahmin ettiği sayıyı bulmaya, kullanıcı da bilgisayarın tahmin ettiği sayıyı bulmaya çalışacak. Tahminler sonucunda tutulan sayı ile ilgili ipuçları verilecek. Eğer tahmin edilen sayı içinde tutulan sayının rakamlarından varsa ve basamak değeri doğruysa “+” değer olarak ipucu verilecek, basamak değeri yanlış ise “-” değer ipucu olarak verilecektir. Örneğin bilgisayar 5483 sayısını tutsun ve kullanıcı 3468 tahmini yaptığında 4 sayısının basamak değeri doğru olduğu için +1, 3 ve 8 sayısının basamak değeri yanlış olduğu için -2 değeri dönülecektir.
 
 ## Installation
-Terminale aşağıdaki komutu girip, kaynak kodu elde edebilirsiniz. 
+Terminale aşağıdaki komutu girip, kaynak kodu ve çalıştırılabilir dosyayı elde edebilirsiniz. 
 ```bash
 git clone https://github.com/EmirTIMUR/GuessingGame_gui_application.git
 ```
